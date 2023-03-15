@@ -27,3 +27,7 @@ git push -u origin main
 // it pushes the txt file made into the repo
 
 git pull https://github.com/AnnaNutzz/devops
+git branch multiply
+git checkout multiply
+
+yt: /watch?v=hufGg2mf7ea
