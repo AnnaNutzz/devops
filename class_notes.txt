@@ -1,0 +1,29 @@
+
+// download -> https://git-scm.com/downloads
+// check -> http://localhost:55115/?code=d0c67d134cd7c460cb94&state=166f80e5b77f4c52b4e9e8c2d9d756b6
+
+pwd
+mkdir Anna
+cd Anna
+git --version
+git config --global user.name AnnaNutzz
+git config --global user.email ask.ahana18@gmail.com
+git config  --list
+git init
+touch master.txt
+notepad master.txt
+git add .
+git status
+git commit -m "first commit"
+git log
+
+// log into github >> make repo 
+
+git remote add origin https://github.com/AnnaNutzz/devops.git
+git branch -M main
+git remote -v
+git push -u origin main
+
+// it pushes the txt file made into the repo
+
+git pull https://github.com/AnnaNutzz/devops
