@@ -2,13 +2,13 @@
 // download -> https://git-scm.com/downloads
 // check -> http://localhost:55115/?code=d0c67d134cd7c460cb94&state=166f80e5b77f4c52b4e9e8c2d9d756b6
 
-pwd
+pwd                                                     // path working directory
 mkdir Anna
 cd Anna
 git --version
 git config --global user.name AnnaNutzz
 git config --global user.email ask.ahana18@gmail.com
-git config  --list
+git config --list
 git init
 touch master.txt
 notepad master.txt
@@ -30,4 +30,6 @@ git pull https://github.com/AnnaNutzz/devops
 git branch multiply
 git checkout multiply
 
-yt: /watch?v=hufGg2mf7ea
+
+
+yt: /watch?v=hufGg2mf7ea . . .  apparently doesnt exists
