@@ -1,4 +1,4 @@
-                                                                  GIT BASICS IN BASH                                                           -15th MARCH 2023
+/github                                                                  GIT BASICS IN BASH                                                           -15th MARCH 2023
   
 
 // download -> https://git-scm.com/downloads
