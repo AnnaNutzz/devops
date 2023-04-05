@@ -1,0 +1,14 @@
+                                                                          JENKINS                                                                      -5.4.2023
+
+About Jenkins:-
+-> continuous integration
+-> needs jdk
+
+-> jenkins.io link
+https://www.jenkins.io/download/thank-you-downloading-windows-installer/
+
+-> copy paste cd in cmd prompt
+cd C:\Program Files\Java\jdk-17\bin           // bin path of jdk
+
+
+
