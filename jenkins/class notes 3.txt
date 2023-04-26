@@ -1,0 +1,3 @@
+                                                                           JENKINS                                                                           -26.4.2023
+                                                                           
+// download jenkins and jdk latest ver
