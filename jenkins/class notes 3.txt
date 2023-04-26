@@ -1,3 +1,28 @@
                                                                            JENKINS                                                                           -26.4.2023
                                                                            
 // download jenkins and jdk latest ver
+
+https://localhost:8080
+
+username: admin or Anna
+password: devops1007
+
+// plugins to get:
+  pipeline
+  multi-configuartion project
+  folder
+  multibranch pipeline
+  organisation folder
+  
+  
+// Steps:
+  make new project name
+  choose style
+  give description 
+  build steps -> exc win bash cmd -> the code                    // check build triggers if needed
+  save
+  
+// click on #1 (in build history)
+
+
+// * * * * *  means 1 min
