@@ -8,11 +8,27 @@ username: admin or Anna
 password: devops1007
 
 // plugins to get:
-  pipeline
+  pipeline groovy identities
+  ant
+  timestamper
+  git
+  ldap
+  workspace cleanup
+  github branch source
+  gradle
+  pipeline: stage view
+  pipeline: github groovy lib
+  matrix auth
+  mailer
+  pam auth
+  build timeout
+  credintials binding
+  owasp markup formatter
   multi-configuartion project
   folder
   multibranch pipeline
   organisation folder
+  
   
   
 // Steps:
