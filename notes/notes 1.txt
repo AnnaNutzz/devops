@@ -1,0 +1,17 @@
+                                                                              NOTES
+                                                                                                                                                                      13.5.2023
+
+Agile: 
+Pros
+  1. project is divided into short and trasnparent iterations
+  2. it has flexible changes process
+  3. Quick release of the first product version
+  4. The correctness of functional requirement is implmented into the development process
+  5. Customer can see the result and understand whether they are satisfied with it or not
+  
+Cons
+  1. the development team should be highly professional and client-oriented
+  2. new requirement may be a conflict with the existing architecture 
+  3. with further correction and change , there may be chances that the project will cross the expected time 
+  4. there may be difficulty to estimate the final coast of the project due to constant iteration 
+  5. a defined requirement is absent
