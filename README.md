@@ -22,3 +22,5 @@ class 3 [NOTES 2] (5.4.2023) => how to install jdk and jenkins in jdk
 class 4 [NOTES 3] (26.4.2023) => jenkins installation
 
 class 5 [NOTES 4] (3.5.2023) => jenkins 
+
+class 6 [NOTES 5] (13.5.2023) => rdm notes and
