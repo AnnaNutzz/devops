@@ -23,4 +23,4 @@ class 4 [NOTES 3] (26.4.2023) => jenkins installation
 
 class 5 [NOTES 4] (3.5.2023) => jenkins 
 
-class 6 [NOTES 5] (13.5.2023) => rdm notes and
+class 6 [NOTES 5] (13.5.2023) => rdm notes bcuz sir came 5 min before class ended 
